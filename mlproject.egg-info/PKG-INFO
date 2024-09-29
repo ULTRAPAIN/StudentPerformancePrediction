@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: sanjay
+Author-email: skprasad117@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: Flask
+Requires-Dist: dill

@@ -1,0 +1,17 @@
+[ 2024-09-29 17:34:26,625 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 17:34:26,631 ] 97 werkzeug - INFO -  * Debugger PIN: 112-468-872
+[ 2024-09-29 17:34:47,286 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:34:47] "GET / HTTP/1.1" 200 -
+[ 2024-09-29 17:34:47,411 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:34:47] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-09-29 17:34:48,163 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:34:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-29 17:34:51,792 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:34:51] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 17:34:51,848 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:34:51] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-09-29 17:35:27,313 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:35:27] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 17:35:27,382 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:35:27] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:35:32,911 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:35:32] "GET / HTTP/1.1" 200 -
+[ 2024-09-29 17:35:32,969 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:35:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:52:16,015 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:52:16] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 17:52:16,104 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:52:16] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:52:21,140 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:52:21] "GET / HTTP/1.1" 200 -
+[ 2024-09-29 17:52:21,224 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:52:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:53:29,508 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:53:29] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 17:53:29,637 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:53:29] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
