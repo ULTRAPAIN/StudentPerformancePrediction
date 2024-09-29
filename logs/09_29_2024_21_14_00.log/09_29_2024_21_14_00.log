@@ -1,0 +1,19 @@
+[ 2024-09-29 21:14:00,140 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 21:14:00,146 ] 97 werkzeug - INFO -  * Debugger PIN: 112-468-872
+[ 2024-09-29 21:14:03,979 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:03] "GET /index HTTP/1.1" 200 -
+[ 2024-09-29 21:14:04,072 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 21:14:07,954 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:07] "GET / HTTP/1.1" 200 -
+[ 2024-09-29 21:14:08,000 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:08] "[36mGET /static/css/skilline.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 21:14:08,009 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:08] "[36mGET /static/img/girl.png HTTP/1.1[0m" 304 -
+[ 2024-09-29 21:14:08,011 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:08] "[36mGET /static/img/calendar.svg HTTP/1.1[0m" 304 -
+[ 2024-09-29 21:14:08,067 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:08] "[36mGET /static/img/ux-class.svg HTTP/1.1[0m" 304 -
+[ 2024-09-29 21:14:08,069 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:08] "[36mGET /static/img/congrat.svg HTTP/1.1[0m" 304 -
+[ 2024-09-29 21:14:42,347 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:42] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 21:14:42,411 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:42] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-09-29 21:14:50,845 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:50] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-09-29 21:14:50,878 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-09-29 21:14:50,885 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-09-29 21:14:50,999 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=rWbNeUcOhUzt14LY6psD HTTP/1.1" 200 -
+[ 2024-09-29 21:14:51,142 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:51] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-09-29 21:14:55,701 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:55] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 21:14:55,736 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 21:14:55] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
