@@ -31,6 +31,12 @@ Flask
 HTML
 CSS
 Installation Step : -
-Python 3.7.0
+Python version > greater than 3.7.0
 command 1 - python -m pip install –-user -r requirements.txt
 command 2 - python app.py
+
+# Result Screenshot
+
+![landing page](image.png)
+![Info page](image-1.png)
+![Prediction Page](image-2.png)

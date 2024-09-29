@@ -1,0 +1,24 @@
+[ 2024-09-29 22:45:53,192 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 22:45:53,195 ] 97 werkzeug - INFO -  * Debugger PIN: 112-468-872
+[ 2024-09-29 22:45:55,983 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:45:55] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 22:45:56,099 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:45:56] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:45:59,428 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:45:59] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 22:45:59,471 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:45:59] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:46:03,052 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:46:03] "GET / HTTP/1.1" 200 -
+[ 2024-09-29 22:46:03,099 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:46:03] "[36mGET /static/css/skilline.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:46:03,101 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:46:03] "[36mGET /static/img/girl.png HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:46:03,103 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:46:03] "[36mGET /static/img/calendar.svg HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:46:03,165 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:46:03] "[36mGET /static/img/ux-class.svg HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:46:03,168 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:46:03] "[36mGET /static/img/congrat.svg HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:49:25,446 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:25] "GET /index HTTP/1.1" 200 -
+[ 2024-09-29 22:49:25,496 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:49:36,049 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:36] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 22:49:36,093 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:36] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:49:41,012 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:41] "[33mGET /null HTTP/1.1[0m" 404 -
+[ 2024-09-29 22:49:56,217 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:56] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 22:49:56,252 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:49:56] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:50:13,613 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:50:13] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 22:50:13,651 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:50:13] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-29 22:50:20,136 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:50:20] "[33mGET /null HTTP/1.1[0m" 404 -
+[ 2024-09-29 22:50:29,299 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:50:29] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-29 22:50:29,343 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 22:50:29] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
